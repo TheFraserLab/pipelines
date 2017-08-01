@@ -1,0 +1,2 @@
+# pipelines
+Lab snakemake pipelines
